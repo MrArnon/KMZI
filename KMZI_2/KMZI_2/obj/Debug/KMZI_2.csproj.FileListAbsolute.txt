@@ -1,0 +1,10 @@
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\bin\Debug\KMZI_2.exe.config
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\bin\Debug\KMZI_2.exe
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\bin\Debug\KMZI_2.pdb
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.Replace.resources
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.Properties.Resources.resources
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.exe
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_2\KMZI_2\obj\Debug\KMZI_2.pdb
