@@ -35,6 +35,7 @@ namespace KMZI_4_password_
         { 
                 writer.Write(S[i]);
         }
+            writer.WriteLine();
             writer.Close(); //закрываем поток. Не закрыв поток, в файл ничего не запишется 
 
         }

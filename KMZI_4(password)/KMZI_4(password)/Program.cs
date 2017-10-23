@@ -12,9 +12,14 @@ namespace KMZI_4_password_
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            int temp = rnd.Next(1,4);
+            int temp = rnd.Next(4,4);
             Identificator game = new Identificator(temp);
             game.generate_V(temp);
+            /*game.V[0] = 4;
+            game.V[1] = 11;
+            game.V[2] = 16;
+            game.V[3] = 29;
+    */        
             Console.WriteLine("Введите число R меньшее " + game.N);
             int R = game.durak();
             while(R>=game.N)
