@@ -1,0 +1,7 @@
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\obj\Debug\KMZI_5.csprojResolveAssemblyReference.cache
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\obj\Debug\KMZI_5.csproj.CoreCompileInputs.cache
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\bin\Debug\KMZI_5.exe.config
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\bin\Debug\KMZI_5.exe
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\bin\Debug\KMZI_5.pdb
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\obj\Debug\KMZI_5.exe
+E:\Поляков Максим Сергеевич\KMZI\KMZI_5\KMZI_5\obj\Debug\KMZI_5.pdb
