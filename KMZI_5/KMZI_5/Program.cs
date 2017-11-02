@@ -11,7 +11,7 @@ namespace KMZI_5
         static void Main(string[] args)
         {
             Prime_numbers prime = new Prime_numbers();
-            int mode = -1;
+            long mode = -1;
             Console.WriteLine("Для генерации простых чисел введите 0");
             Console.WriteLine("Для проверки числа на простоту введите 1");
             mode = prime.durak();
@@ -19,12 +19,12 @@ namespace KMZI_5
             {
                 case 0:
                     Console.WriteLine("Введите до какого числа искать простые числа");
-                    int n = prime.durak();
+                    long n = prime.durak();
                         prime.Eratosfen(n);
                         break;
                 case 1:
                     Console.WriteLine("Введите число для проверки");
-                    int x = prime.durak();
+                    long x = prime.durak();
                     if (prime.IsPrime(x))
                         Console.WriteLine("Число " + x + " простое");
                     else Console.WriteLine("Число " + x + " не является простым");

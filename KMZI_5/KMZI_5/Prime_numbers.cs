@@ -8,46 +8,47 @@ namespace KMZI_5
 {
     class Prime_numbers
     {
-        public bool IsPrime(int x)
+        public bool IsPrime(long x)
         {
             if (x < 1) return false;
-            for (int i = 2; i * i <= x; i++)
+            for (long i = 2; i * i <= x; i++)
                 if ((x % i) == 0) return false;
             return true;
         }
-        public int durak()
+        public long durak()
         {
             bool flag = false;
-            int R = 0;
+            long R = 0;
             // Console.WriteLine("Введите число");
             string str;
             str = Console.ReadLine();
             try
             {
-                R = Convert.ToInt32(str);
+                R = Convert.ToInt64(str);
                 flag = true;
             }
             catch (Exception) { flag = false; Console.WriteLine("Неверный ввод"); }
             if (flag) { return R; }
             else { durak(); return 0; }
         }
-        public void Eratosfen(int n)
+   
+        public void Eratosfen(long n)
         {
             //int n = int.Parse(Console.ReadLine());
             bool[] A = new bool[n];
             // Инициализация и вывод массива
-            for (int i = 2; i < n; i++)
+            for (long i = 2; i < n; i++)
             {
                 A[i] = true;
             //    Console.Write("{0} ", i);
             }
             
             // Обработка
-            for (int i = 2; i < Math.Sqrt(n) + 1; ++i)
+            for (long i = 2; i < Math.Sqrt(n) + 1; ++i)
             {
                 if (A[i])
                 {
-                    for (int j = i * i; j < n; j += i)
+                    for (long j = i * i; j < n; j += i)
                     {
                         A[j] = false;
                     }
@@ -55,7 +56,7 @@ namespace KMZI_5
             }
             Console.WriteLine();
             // Повторный вывод
-            for (int i = 2; i < n; i++)
+            for (long i = 2; i < n; i++)
             {
                 if (A[i])
                     Console.Write("{0} ", i);
