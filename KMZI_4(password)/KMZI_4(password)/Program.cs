@@ -40,17 +40,18 @@ namespace KMZI_4_password_
                 if (R_old != R)
                 {
                     game.metod_X(R);
-                   // game.Generate_S(temp);
+					// game.Generate_S(temp);
 
-                    game.Generate_bool(temp);
-                    game.secret_Y(R, temp);
+					// game.Generate_bool(temp);
+					game.random_bits(temp);
+					game.secret_Y(R, temp);
                     game.writer(temp);
                     Console.WriteLine("Введите число Y");
                     int new_Y = game.durak();
 
                     game.ending(new_Y, temp);
                     R_old = R;
-                   // game.ending(game.Y, temp);
+                    //game.ending(game.Y, temp);
 
                     i++;
                 }

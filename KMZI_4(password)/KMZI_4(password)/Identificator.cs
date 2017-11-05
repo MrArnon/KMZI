@@ -11,7 +11,7 @@ namespace KMZI_4_password_
     {
         public int X { get; set; }
         private int A = 5;
-        private int B = 13;
+        private int B = 7;
         public int N;    //19823=43 *461 //43*3=129
         public int[] V { get; set; }
         private int[] S { get; set; }
@@ -50,8 +50,8 @@ namespace KMZI_4_password_
                 temp *= ((int)Math.Pow(S[i], Bool[i]));
             }
             temp = temp % N;
-            if (temp == X)
-            {
+            if (temp == X)//temp == X
+			{
                 Console.WriteLine("Проверка пройдена");
                 Flag = true;
             }
@@ -132,7 +132,7 @@ namespace KMZI_4_password_
             return b;
         }
 
-        public void Generate_bool(int count)
+        /*public void Generate_bool(int count)
         {
             Console.WriteLine("Последовательность для проверки");
             for (int i = 0; i < count; i++)
@@ -140,30 +140,37 @@ namespace KMZI_4_password_
                 random_bits(i);
             }
             Console.WriteLine("");
-        }
-        private void random_bits(int i)
+        }*/
+        public void random_bits(int count)
         {
+			Console.WriteLine("Последовательность для проверки");
+			Random rnd = new Random();
+			for (int i = 0; i < count; i++)
+			{
+				//(DateTime.Now.Millisecond);
+				Bool[i] = rnd.Next(0, 2);
+				Console.Write(Bool[i] + " ");
+				//int temp = rnd.Next();
+				//bool b;
+				/*if (rnd.Next(0, 2) % 2 == 0) b = true;
+				else b = false;
+				if (b)
+				{
+					Console.Write('1' + " ");
+					Bool[i] = 1;
 
-            Random rnd = new Random();//(DateTime.Now.Millisecond);
-            //int temp = rnd.Next();
-            bool b;
-            if (rnd.Next(0, 1000) % 2 == 0) b = true;
-            else b = false;
-            if (b)
-            {
-                Console.Write('1' + " ");
-                Bool[i] = 1;
 
+				}
+				else
+				{
+					Console.Write('0' + " ");
+					Bool[i] = 0;
 
-            }
-            else
-            {
-                Console.Write('0' + " ");
-                Bool[i] = 0;
-
-            }
-            //Console.WriteLine("");
-        }
+				}*/
+			}
+			Console.WriteLine("");
+			//Console.WriteLine("");
+		}
         public int durak()
         {
             bool flag = false;
