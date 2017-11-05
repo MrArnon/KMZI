@@ -47,7 +47,7 @@ namespace KMZI_4_password_
             int temp = new_Y * new_Y;
             for (int i = 0; i < count; i++)
             {
-                temp *= ((int)Math.Pow(S[i], Bool[i]));
+                temp *= ((int)Math.Pow(V[i], Bool[i]));
             }
             temp = temp % N;
             if (temp == X)//temp == X

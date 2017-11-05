@@ -51,7 +51,7 @@ namespace KMZI_4_password_
 
                     game.ending(new_Y, temp);
                     R_old = R;
-                    //game.ending(game.Y, temp);
+                   //game.ending(game.Y, temp);
 
                     i++;
                 }
