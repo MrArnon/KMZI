@@ -31,7 +31,7 @@ namespace KMZI_6
 		{
 			if(check_Test.Numbers_que==check_Test.Counter)
 			{
-				MessageBox.Show("Вы правильно ответили на " + check_Test.Right_answer + " вопросов", "Конец тестирования");
+				MessageBox.Show("Верных ответов - " + check_Test.Right_answer , "Конец тестирования");
 				//Text_output.Text = "Вы правильно ответили на " + check_Test.Right_answer + " вопросов" + "\r\n" + "Для продолжения нажмите кнопку продолжить";
 				Text_answer.Visible = false;
 				But_answer.Visible = false;

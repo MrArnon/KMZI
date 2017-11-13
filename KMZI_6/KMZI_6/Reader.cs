@@ -34,6 +34,7 @@ namespace KMZI_6
 			catch (FileNotFoundException)
 			{
 				//MessageBox.Show("Файл не найден");
+				Question = "Для продолжения нажмите кнопку Ответить";
 			}
 			catch (IOException)
 			{

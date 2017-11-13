@@ -37,7 +37,8 @@
 			// Text_output
 			// 
 			this.Text_output.BackColor = System.Drawing.SystemColors.ControlLightLight;
-			this.Text_output.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+			this.Text_output.Cursor = System.Windows.Forms.Cursors.Arrow;
+			this.Text_output.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.Text_output.Location = new System.Drawing.Point(63, 12);
 			this.Text_output.Multiline = true;
 			this.Text_output.Name = "Text_output";
@@ -49,33 +50,37 @@
 			// 
 			// But_Start
 			// 
+			this.But_Start.BackColor = System.Drawing.Color.LightSteelBlue;
+			this.But_Start.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.But_Start.Location = new System.Drawing.Point(63, 258);
 			this.But_Start.Name = "But_Start";
 			this.But_Start.Size = new System.Drawing.Size(71, 38);
 			this.But_Start.TabIndex = 1;
 			this.But_Start.Text = "Начать";
-			this.But_Start.UseVisualStyleBackColor = true;
+			this.But_Start.UseVisualStyleBackColor = false;
 			this.But_Start.Click += new System.EventHandler(this.But_Start_Click);
 			// 
 			// But_answer
 			// 
+			this.But_answer.BackColor = System.Drawing.Color.LightSteelBlue;
+			this.But_answer.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
 			this.But_answer.ForeColor = System.Drawing.SystemColors.ControlText;
 			this.But_answer.Location = new System.Drawing.Point(441, 258);
 			this.But_answer.Name = "But_answer";
 			this.But_answer.Size = new System.Drawing.Size(71, 38);
 			this.But_answer.TabIndex = 2;
 			this.But_answer.Text = "Ответить";
-			this.But_answer.UseVisualStyleBackColor = true;
+			this.But_answer.UseVisualStyleBackColor = false;
 			this.But_answer.Visible = false;
 			this.But_answer.Click += new System.EventHandler(this.But_answer_Click);
 			// 
 			// Text_answer
 			// 
 			this.Text_answer.BackColor = System.Drawing.SystemColors.ControlLightLight;
-			this.Text_answer.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-			this.Text_answer.Location = new System.Drawing.Point(63, 268);
+			this.Text_answer.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+			this.Text_answer.Location = new System.Drawing.Point(63, 261);
 			this.Text_answer.Name = "Text_answer";
-			this.Text_answer.Size = new System.Drawing.Size(372, 26);
+			this.Text_answer.Size = new System.Drawing.Size(372, 30);
 			this.Text_answer.TabIndex = 3;
 			this.Text_answer.Visible = false;
 			// 
@@ -83,11 +88,14 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(577, 337);
+			this.BackColor = System.Drawing.Color.Honeydew;
+			this.ClientSize = new System.Drawing.Size(577, 358);
 			this.Controls.Add(this.Text_answer);
 			this.Controls.Add(this.But_answer);
 			this.Controls.Add(this.But_Start);
 			this.Controls.Add(this.Text_output);
+			this.MaximumSize = new System.Drawing.Size(593, 397);
+			this.MinimumSize = new System.Drawing.Size(593, 397);
 			this.Name = "Testing";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Test";
