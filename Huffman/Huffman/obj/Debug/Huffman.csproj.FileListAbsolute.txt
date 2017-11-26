@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\obj\Debug\Huffman.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\bin\Debug\Huffman.exe.config
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\Huffman\Huffman\obj\Debug\Huffman.pdb
