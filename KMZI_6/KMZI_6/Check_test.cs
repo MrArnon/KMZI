@@ -33,7 +33,7 @@ namespace KMZI_6
 			}
 			else
 			{
-				MessageBox.Show("Неверный ответ !"+ "\r\n" + "В следующий раз будет внимательние", "Вопрос №" + Convert.ToString(Counter + 1));
+				MessageBox.Show("Неверный ответ !"+ "\r\n" + "В следующий раз будте внимательние", "Вопрос №" + Convert.ToString(Counter + 1));
 			}
 				Counter++;
 		}

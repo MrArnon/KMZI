@@ -8,3 +8,13 @@ E:\Поляков Максим Сергеевич\KMZI\KMZI_6\KMZI_6\obj\Debug\K
 E:\Поляков Максим Сергеевич\KMZI\KMZI_6\KMZI_6\obj\Debug\KMZI_6.csproj.CoreCompileInputs.cache
 E:\Поляков Максим Сергеевич\KMZI\KMZI_6\KMZI_6\obj\Debug\KMZI_6.exe
 E:\Поляков Максим Сергеевич\KMZI\KMZI_6\KMZI_6\obj\Debug\KMZI_6.pdb
+E:\Labs\KMZI_6\KMZI_6\bin\Debug\KMZI_6.exe.config
+E:\Labs\KMZI_6\KMZI_6\bin\Debug\KMZI_6.exe
+E:\Labs\KMZI_6\KMZI_6\bin\Debug\KMZI_6.pdb
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.csprojResolveAssemblyReference.cache
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.Testing.resources
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.Properties.Resources.resources
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.csproj.GenerateResource.Cache
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.csproj.CoreCompileInputs.cache
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.exe
+E:\Labs\KMZI_6\KMZI_6\obj\Debug\KMZI_6.pdb
