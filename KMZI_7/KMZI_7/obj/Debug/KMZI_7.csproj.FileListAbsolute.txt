@@ -1,0 +1,12 @@
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.csprojResolveAssemblyReference.cache
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.Form_admin.resources
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.Form_input.resources
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.Properties.Resources.resources
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.csproj.GenerateResource.Cache
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.csproj.CoreCompileInputs.cache
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\bin\Debug\KMZI_7.exe.config
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\bin\Debug\KMZI_7.exe
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\bin\Debug\KMZI_7.pdb
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.exe
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.pdb
+E:\Поляков Максим Сергеевич\KMZI\KMZI_7\KMZI_7\obj\Debug\KMZI_7.Form_user.resources
