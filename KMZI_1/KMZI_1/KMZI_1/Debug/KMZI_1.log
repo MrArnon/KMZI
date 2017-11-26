@@ -1,0 +1,5 @@
+﻿  KMZI_1.cpp
+c:\users\1\desktop\поляков максим сергеевич\kmzi\kmzi_1\kmzi_1\kmzi_1\kmzi_1.cpp(39): warning C4715: proverka: значение возвращается не при всех путях выполнения
+c:\users\1\desktop\поляков максим сергеевич\kmzi\kmzi_1\kmzi_1\kmzi_1\kmzi_1.cpp(103): warning C4715: reverse_str: значение возвращается не при всех путях выполнения
+  KMZI_1.vcxproj -> C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_1\KMZI_1\Debug\KMZI_1.exe
+  KMZI_1.vcxproj -> C:\Users\1\Desktop\Поляков Максим Сергеевич\KMZI\KMZI_1\KMZI_1\Debug\KMZI_1.pdb (Partial PDB)
