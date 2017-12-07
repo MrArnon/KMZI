@@ -53,9 +53,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Ras.cs" />
-    <Compile Include="Shi.cs" />
-    <Compile Include="Shifr.cs" />
+    <Compile Include="Decript.cs" />
+    <Compile Include="SaveImg.cs" />
+    <Compile Include="Encript.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

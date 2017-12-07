@@ -8,3 +8,13 @@ C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.Ge
 C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.CoreCompileInputs.cache
 C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.exe
 C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.pdb
+E:\Labs\7.Сжатие изображений\КМЗИ_4\bin\Debug\КМЗИ_4.exe.config
+E:\Labs\7.Сжатие изображений\КМЗИ_4\bin\Debug\КМЗИ_4.exe
+E:\Labs\7.Сжатие изображений\КМЗИ_4\bin\Debug\КМЗИ_4.pdb
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.csprojResolveAssemblyReference.cache
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.Form1.resources
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.Properties.Resources.resources
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.GenerateResource.Cache
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.CoreCompileInputs.cache
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.exe
+E:\Labs\7.Сжатие изображений\КМЗИ_4\obj\Debug\КМЗИ_4.pdb
