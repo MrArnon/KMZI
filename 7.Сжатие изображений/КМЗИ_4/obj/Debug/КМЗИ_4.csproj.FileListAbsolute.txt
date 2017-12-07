@@ -1,0 +1,10 @@
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\bin\Debug\КМЗИ_4.exe.config
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\bin\Debug\КМЗИ_4.exe
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\bin\Debug\КМЗИ_4.pdb
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.Form1.resources
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.Properties.Resources.resources
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.GenerateResource.Cache
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.exe
+C:\Users\Павел\Desktop\КМЗИ_4\КМЗИ_4\obj\Debug\КМЗИ_4.pdb
