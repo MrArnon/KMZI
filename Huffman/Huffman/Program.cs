@@ -12,7 +12,8 @@ namespace Huffman
         {
             string input = "foo bar";
             HuffmanTree huffmanTree = new HuffmanTree();
-
+            if(1!=input.Length)
+            {
             // Build the Huffman tree
             huffmanTree.Build(input);
 
@@ -37,6 +38,12 @@ namespace Huffman
             Console.WriteLine("Decoded: " + decoded);
 
             Console.ReadLine();
+            }
+        else
+        {
+        Console.WriteLine("Decoded: " + "0");
+        Console.ReadLine();
+        }
         }
     }
 }
